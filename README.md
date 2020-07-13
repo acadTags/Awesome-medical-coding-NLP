@@ -1,5 +1,7 @@
 # medical-coding-NLP
- Stop at any time to check this collection of papers on automated medical coding from free-texts!
+ Autoamted medical coding is an area in Clinical Natural Language Processing to assign diagnosis or procedure medical codes to free-text clinical notes. The domain is a sub-field of document classification and information extraction.
+
+ Stop at any time to check this collection of papers!
 
 # 2020
 
