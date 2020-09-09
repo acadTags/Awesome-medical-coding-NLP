@@ -7,7 +7,7 @@
 
 ## IJCAI 2020
 
--[Generalized Zero-Shot Text Classification for ICD Coding](https://www.ijcai.org/Proceedings/2020/0556.pdf) -  Zero-shot learning with Graph Recurrent Neural Networks and ontology.
+-[Generalized Zero-Shot Text Classification for ICD Coding](https://www.ijcai.org/Proceedings/2020/0556.pdf) -  Generalised Zero-shot learning with Generative adversial training, the ICD hierarchy with descriptions, and Graph Recurrent Neural Networks.
 
 ## ACL 2020
 
@@ -33,7 +33,7 @@ code prediction from clinical text](https://www.aclweb.org/anthology/D19-6220/) 
 # 2018
 
 ## EMNLP 2018
--[Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces](https://www.aclweb.org/anthology/D18-1352/) - Few-shot and zero-shot learning with Graph Convolutional Neural Networks and ontology.
+-[Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces](https://www.aclweb.org/anthology/D18-1352/) - Few-shot and zero-shot learning with Graph Convolutional Neural Networks and the ICD hierarchy with descriptions.
 
 ## NAACL-HLT 2018
 -[Explainable Prediction of Medical Codes from Clinical Text](https://www.aclweb.org/anthology/N18-1100) - CNN with labelwise attention and the benchmark MIMIC preprocessed datasets
