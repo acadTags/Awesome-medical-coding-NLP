@@ -7,7 +7,7 @@
 
 ## EMNLP 2020
 
--[An Empirical Study on Large-Scale Multi-Label Text Classification Including Few and Zero-Shot Labels](https://arxiv.org/pdf/2010.01653.pdf) - Zero-shot learning, BERTs' underpreformance on MIMIC-III, and the idea of Graph-aware Annotation Proximity (GAP), an graph-based look into the coding process.
+-[An Empirical Study on Large-Scale Multi-Label Text Classification Including Few and Zero-Shot Labels](https://arxiv.org/pdf/2010.01653.pdf) - (i) Improvement on zero-shot learning and (ii) the idea of Graph-aware Annotation Proximity (GAP), an graph-based look into the coding process, and (iii) BERTs' underpreformance on MIMIC-III.
 
 ## IJCAI 2020
 
