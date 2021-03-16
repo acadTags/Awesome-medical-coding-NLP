@@ -3,6 +3,10 @@
 
  Stop at any time to check this collection of papers!
 
+# 2021
+
+-[Does the Magic of BERT Apply to Medical Code Assignment? A Quantitative Study](https://www.researchgate.net/publication/350005526_Does_the_Magic_of_BERT_Apply_to_Medical_Code_Assignment_A_Quantitative_Study) Evaluation of BERT on MIMIC-III ICD coding.
+
 # 2020
 
 ## EMNLP 2020
@@ -28,6 +32,8 @@
 -[Experimental Evaluation and Development of a Silver-Standard for the MIMIC-III Clinical Coding Dataset](https://www.aclweb.org/anthology/2020.bionlp-1.8/)
 
 # 2019
+
+-[Multimodal Machine Learning for Automated ICD Coding](http://proceedings.mlr.press/v106/xu19a.html) Ensembling models from unstructured text, semi-structured text and structured tabular data for ICD coding. (Keyang Xu, Mike Lam, Jingzhi Pang, Xin Gao, Charlotte Band, Piyush Mathur, Frank Papay, Ashish K. Khanna, Jacek B. Cywinski, Kamal Maheshwari, Pengtao Xie, Eric P. Xing ; Proceedings of the 4th Machine Learning for Healthcare Conference, PMLR 106:197-215, 2019.)
 
 ## LOUHI 2019 at EMNLP
 
