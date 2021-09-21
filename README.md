@@ -6,7 +6,7 @@
  Stop at any time to check this collection of papers!
 
 # Reviews
--[A systematic literature review of automated clinical coding and classification systems] - 2010, one of the earliest reviews in automated clinical coding.
+-[A systematic literature review of automated clinical coding and classification systems](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3000748/) - 2010, one of the earliest reviews in automated clinical coding.
 
 # Paper by years
 
