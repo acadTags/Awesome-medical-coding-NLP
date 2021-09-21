@@ -43,7 +43,7 @@
 -[Ontological attention ensembles for capturing semantic concepts in ICD
 code prediction from clinical text](https://www.aclweb.org/anthology/D19-6220/) - Multi-view convolution + multi-task learning. In LOUHI 2019 at EMNLP.
 
-# 2018
+## 2018
 
 -[Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces](https://www.aclweb.org/anthology/D18-1352/) - Few-shot and zero-shot learning with Graph Convolutional Neural Networks and the ICD hierarchy with descriptions. In EMNLP 2018.
 
