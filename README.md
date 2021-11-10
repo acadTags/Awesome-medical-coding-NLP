@@ -12,7 +12,7 @@
 
 ## 2021
 
--[Meta-LMTC: Meta-Learning for Large-Scale Multi-Label Text Classification](https://aclanthology.org/2021.emnlp-main.679/)
+-[Meta-LMTC: Meta-Learning for Large-Scale Multi-Label Text Classification](https://aclanthology.org/2021.emnlp-main.679/) - Meta-learning for few- or zero-shot multi-label classification - in EMNLP 2021
 
 -[CoPHE: A Count-Preserving Hierarchical Evaluation Metric in Large-Scale Multi-Label Text Classification](http://arxiv.org/abs/2109.04853) A novel metric for hierarchical multi-label classification, applied to MIMIC-III ICD coding - in EMNLP 2021
 
