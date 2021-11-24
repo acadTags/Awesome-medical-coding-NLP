@@ -16,6 +16,8 @@
 
 -[CoPHE: A Count-Preserving Hierarchical Evaluation Metric in Large-Scale Multi-Label Text Classification](http://arxiv.org/abs/2109.04853) A novel metric for hierarchical multi-label classification, applied to MIMIC-III ICD coding - in EMNLP 2021
 
+-[Read, Attend, and Code: Pushing the Limits of Medical Codes Prediction from Clinical Notes by Machines](https://arxiv.org/abs/2107.10650) - Attention-based model, human-level coding results - in MLHC 2021 - [leaderboard on paper with code](https://paperswithcode.com/task/medical-code-prediction) - [video](https://www.youtube.com/watch?v=Pm5DZhCOJJ0)
+
 -[Does the Magic of BERT Apply to Medical Code Assignment? A Quantitative Study](https://www.researchgate.net/publication/350005526_Does_the_Magic_of_BERT_Apply_to_Medical_Code_Assignment_A_Quantitative_Study) Evaluation of BERT on MIMIC-III ICD coding.
 
 -[Counterfactual Supporting Facts Extraction for Explainable Medical Record Based Diagnosis with Graph Network](https://www.aclweb.org/anthology/2021.naacl-main.156) - in NAACL 2021
