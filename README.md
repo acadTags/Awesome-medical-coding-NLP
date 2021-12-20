@@ -17,6 +17,10 @@
 
 ## 2021
 
+-[Multitask Recalibrated Aggregation Network for Medical Code Prediction](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_161.pdf) - multi-task learning - in ECML-PKDD 2021
+
+-[Effective Convolutional Attention Network for Multi-label Clinical Document Classification](https://aclanthology.org/2021.emnlp-main.481/) - in EMNLP 2021
+
 -[Meta-LMTC: Meta-Learning for Large-Scale Multi-Label Text Classification](https://aclanthology.org/2021.emnlp-main.679/) - Meta-learning for few- or zero-shot multi-label classification - in EMNLP 2021
 
 -[CoPHE: A Count-Preserving Hierarchical Evaluation Metric in Large-Scale Multi-Label Text Classification](http://arxiv.org/abs/2109.04853) A novel metric for hierarchical multi-label classification, applied to MIMIC-III ICD coding - in EMNLP 2021
