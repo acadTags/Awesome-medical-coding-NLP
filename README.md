@@ -33,7 +33,9 @@
 
 -[Automatic ICD Coding via Interactive Shared Representation Networks with Self-distillation Mechanism](https://aclanthology.org/2021.acl-long.463/) in ACL 2021
 
--[Explainable Automated Coding of Clinical Notes using Hierarchical Label-Wise Attention Networks and Label Embedding Initialisation](https://arxiv.org/abs/2010.15728) in JBI 2021.
+-[JLAN: medical code prediction via joint learning attention networks and denoising mechanism](https://doi.org/10.1186/s12859-021-04520-x) in BMC Bioinformatics, 2021
+
+-[Explainable Automated Coding of Clinical Notes using Hierarchical Label-Wise Attention Networks and Label Embedding Initialisation](https://arxiv.org/abs/2010.15728) in JBI, 2021.
 
 ## 2020
 
