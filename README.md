@@ -11,7 +11,9 @@
 -[CodieEsp](https://temu.bsc.es/codiesp/)
 
 # Reviews
--[A systematic literature review of automated clinical coding and classification systems](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3000748/) - 2010, one of the earliest reviews in automated clinical coding.
+-[A systematic literature review of automated clinical coding and classification systems](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3000748/) - one of the earliest reviews in automated clinical coding, in JAMIA, 2010
+
+-[A Systematic Literature Review of Automated ICD Coding and Classification Systems using Discharge Summaries](https://arxiv.org/abs/2107.10652) - review of work between 2010-2020
 
 # Paper by years
 
