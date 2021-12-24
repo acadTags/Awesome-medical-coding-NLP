@@ -65,3 +65,9 @@ code prediction from clinical text](https://www.aclweb.org/anthology/D19-6220/) 
 -[Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces](https://www.aclweb.org/anthology/D18-1352/) - Few-shot and zero-shot learning with Graph Convolutional Neural Networks and the ICD hierarchy with descriptions. In EMNLP 2018.
 
 -[Explainable Prediction of Medical Codes from Clinical Text](https://www.aclweb.org/anthology/N18-1100) - CNN with labelwise attention and the benchmark MIMIC preprocessed datasets. In NAACL-HLT 2018.
+
+## 2017
+
+-[Towards Automated ICD Coding Using Deep Learning](https://arxiv.org/abs/1711.04075)
+
+-[Automatic Diagnosis Coding of Radiology Reports: A Comparison of Deep Learning and Conventional Classification Methods](https://aclanthology.org/W17-2342/) in BioNLP 2017
