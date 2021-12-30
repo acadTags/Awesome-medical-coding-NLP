@@ -1,7 +1,7 @@
 # Awesome-medical-coding-NLP
  Automated medical coding is an area in Clinical Natural Language Processing to assign diagnosis or procedure medical codes to free-text clinical notes. The domain is a sub-field of document classification and information extraction.
 
- Below is a curation of papers (mostly peer-reviewed) and datasets in this field. Given the many new papers and datasets published, I may have lost some of them.
+ Below is a curation of papers (mostly peer-reviewed) and datasets in this field, mainly since the application of deep learning to this field (around 2017). Given the many new papers and datasets published, I may have lost some of them.
  
  Stop at any time to check this collection of papers!
 
