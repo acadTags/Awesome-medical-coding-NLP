@@ -74,6 +74,8 @@ code prediction from clinical text](https://www.aclweb.org/anthology/D19-6220/) 
 
 -[Explainable Prediction of Medical Codes from Clinical Text](https://www.aclweb.org/anthology/N18-1100) - CNN with labelwise attention and the benchmark MIMIC preprocessed datasets. In NAACL-HLT 2018.
 
+-[Towards automated clinical coding](https://discovery.ucl.ac.uk/id/eprint/10061782/) - International Journal of Medical Informatics, 2018
+
 ## 2017
 
 -[Towards Automated ICD Coding Using Deep Learning](https://arxiv.org/abs/1711.04075)
