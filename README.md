@@ -17,6 +17,8 @@
 
 -[A Unified Review of Deep Learning for Automated Medical Coding](https://arxiv.org/abs/2201.02797) - a focus on deep learning, 2022.
 
+-[A review on deep neural networks for ICD coding](https://www.computer.org/csdl/journal/tk/5555/01/09705116/1AII1Yh8t44), 2022.
+
 -[Computer-assisted clinical coding: A narrative review of the literature on its benefits, limitations, implementation and impact on clinical coding professionals](https://journals.sagepub.com/doi/10.1177/1833358319851305) - an application-oriented review of computer-assisted clinical coding, in Health Information Management Journal, 2020.
 
 # Paper by years
