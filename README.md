@@ -5,11 +5,6 @@
  
  Stop at any time to check this collection of papers!
 
-# Datasets
--[MIMIC-III](https://physionet.org/content/mimiciii/1.4/)
-
--[CodieEsp](https://temu.bsc.es/codiesp/)
-
 # Reviews
 -[A systematic literature review of automated clinical coding and classification systems](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3000748/) - one of the earliest reviews in automated clinical coding, in JAMIA, 2010
 
@@ -87,3 +82,8 @@ code prediction from clinical text](https://www.aclweb.org/anthology/D19-6220/) 
 -[Towards Automated ICD Coding Using Deep Learning](https://arxiv.org/abs/1711.04075)
 
 -[Automatic Diagnosis Coding of Radiology Reports: A Comparison of Deep Learning and Conventional Classification Methods](https://aclanthology.org/W17-2342/) in BioNLP 2017
+
+# Datasets (EHR only)
+-[MIMIC-III](https://physionet.org/content/mimiciii/1.4/)
+
+-[CodieEsp](https://temu.bsc.es/codiesp/)
