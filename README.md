@@ -18,6 +18,9 @@
 
 # Paper by years
 
+## 2022
+-[Code Synonyms Do Matter: Multiple Synonyms Matching Network for Automatic ICD Coding](https://arxiv.org/abs/2203.01515) - ACL 2022
+
 ## 2021
 
 -[Multitask Recalibrated Aggregation Network for Medical Code Prediction](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_161.pdf) - multi-task learning - in ECML-PKDD 2021
