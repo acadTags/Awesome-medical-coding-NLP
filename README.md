@@ -19,7 +19,7 @@
 # Paper by years
 
 ## 2022
--[Code Synonyms Do Matter: Multiple Synonyms Matching Network for Automatic ICD Coding](https://arxiv.org/abs/2203.01515) - ACL 2022 - [official code](https://github.com/GanjinZero/ICD-MSMN)
+-[Code Synonyms Do Matter: Multiple Synonyms Matching Network for Automatic ICD Coding](https://arxiv.org/abs/2203.01515) - ACL 2022 - [official implementation](https://github.com/GanjinZero/ICD-MSMN)
 
 ## 2021
 
