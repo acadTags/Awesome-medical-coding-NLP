@@ -19,7 +19,13 @@
 # Paper by years
 
 ## 2022
--[Code Synonyms Do Matter: Multiple Synonyms Matching Network for Automatic ICD Coding](https://arxiv.org/abs/2203.01515) - ACL 2022 - [official implementation](https://github.com/GanjinZero/ICD-MSMN)
+-[Horses to Zebras: Ontology-Guided Data Augmentation and Synthesis for ICD-9 Coding](https://aclanthology.org/2022.bionlp-1.39/) - BioNLP@ACL 2022
+
+-[Model Distillation for Faithful Explanations of Medical Code Predictions](https://aclanthology.org/2022.bionlp-1.41/) - BioNLP@ACL 2022
+
+-[ICDBigBird: A Contextual Embedding Model for ICD Code Classification](https://aclanthology.org/2022.bionlp-1.32/) - BioNLP@ACL 2022
+
+-[Code Synonyms Do Matter: Multiple Synonyms Matching Network for Automatic ICD Coding](https://aclanthology.org/2022.acl-short.91/) - ACL 2022 - [official implementation](https://github.com/GanjinZero/ICD-MSMN)
 
 ## 2021
 
@@ -61,7 +67,7 @@
 
 -[HyperCore: Hyperbolic and Co-graph Representation for Automatic ICD Coding](https://www.aclweb.org/anthology/2020.acl-main.282/) - Hyperbolic embedding + Graph Convolutional Networks. In ACL 2020.
 
--[Clinical-Coder: Assigning Interpretable ICD-10 Codes to Chinese Clinical Notes](https://www.aclweb.org/anthology/2020.acl-demos.33/) in Demo at ACL 2020.
+-[Clinical-Coder: Assigning Interpretable ICD-10 Codes to Chinese Clinical Notes](https://www.aclweb.org/anthology/2020.acl-demos.33/) in System Demonstrations, ACL 2020.
 
 -[Experimental Evaluation and Development of a Silver-Standard for the MIMIC-III Clinical Coding Dataset](https://www.aclweb.org/anthology/2020.bionlp-1.8/) in BioNLP at ACL 2020.
 
