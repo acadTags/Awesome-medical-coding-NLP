@@ -19,14 +19,15 @@
 # Paper by years
 
 ## 2022
--[Horses to Zebras: Ontology-Guided Data Augmentation and Synthesis for ICD-9 Coding](https://aclanthology.org/2022.bionlp-1.39/) - BioNLP@ACL 2022
+-[Horses to Zebras: Ontology-Guided Data Augmentation and Synthesis for ICD-9 Coding](https://aclanthology.org/2022.bionlp-1.39/) - in BioNLP@ACL 2022
 
--[Model Distillation for Faithful Explanations of Medical Code Predictions](https://aclanthology.org/2022.bionlp-1.41/) - BioNLP@ACL 2022
+-[Model Distillation for Faithful Explanations of Medical Code Predictions](https://aclanthology.org/2022.bionlp-1.41/) - in BioNLP@ACL 2022
 
--[ICDBigBird: A Contextual Embedding Model for ICD Code Classification](https://aclanthology.org/2022.bionlp-1.32/) - BioNLP@ACL 2022
+-[ICDBigBird: A Contextual Embedding Model for ICD Code Classification](https://aclanthology.org/2022.bionlp-1.32/) - in BioNLP@ACL 2022
 
--[Code Synonyms Do Matter: Multiple Synonyms Matching Network for Automatic ICD Coding](https://aclanthology.org/2022.acl-short.91/) - ACL 2022 - [official implementation](https://github.com/GanjinZero/ICD-MSMN)
+-[Code Synonyms Do Matter: Multiple Synonyms Matching Network for Automatic ICD Coding](https://aclanthology.org/2022.acl-short.91/) - in ACL 2022 - [official implementation](https://github.com/GanjinZero/ICD-MSMN)
 
+-[A Novel Framework Based on Medical Concept Driven Attention for Explainable Medical Code Prediction via External Knowledge](https://aclanthology.org/2022.findings-acl.110/) - in Findings of the ACL 2022 
 ## 2021
 
 -[Multitask Recalibrated Aggregation Network for Medical Code Prediction](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_161.pdf) - multi-task learning - in ECML-PKDD 2021
