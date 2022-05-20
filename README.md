@@ -74,6 +74,8 @@
 
 ## 2019
 
+-[ICD Coding from Clinical Text Using Multi-Filter Residual Convolutional Neural Network](https://ojs.aaai.org/index.php/AAAI/article/view/6331) - in AAAI 2019
+
 -[Multimodal Machine Learning for Automated ICD Coding](http://proceedings.mlr.press/v106/xu19a.html) Ensembling models from unstructured text, semi-structured text and structured tabular data for ICD coding. (Keyang Xu, Mike Lam, Jingzhi Pang, Xin Gao, Charlotte Band, Piyush Mathur, Frank Papay, Ashish K. Khanna, Jacek B. Cywinski, Kamal Maheshwari, Pengtao Xie, Eric P. Xing ; Proceedings of the 4th Machine Learning for Healthcare Conference, PMLR 106:197-215, 2019.)
 
 -[Ontological attention ensembles for capturing semantic concepts in ICD
