@@ -19,6 +19,9 @@
 # Paper by years
 
 ## 2022
+
+-[PLM-ICD: Automatic ICD Coding with Pretrained Language Models](https://arxiv.org/abs/2207.05289?context=cs.AI) - in ClinicalNLP@NAACL 2022 - [official implementation](https://github.com/miulab/plm-icd)
+
 -[Horses to Zebras: Ontology-Guided Data Augmentation and Synthesis for ICD-9 Coding](https://aclanthology.org/2022.bionlp-1.39/) - in BioNLP@ACL 2022
 
 -[Model Distillation for Faithful Explanations of Medical Code Predictions](https://aclanthology.org/2022.bionlp-1.41/) - in BioNLP@ACL 2022
