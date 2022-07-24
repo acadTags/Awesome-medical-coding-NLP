@@ -33,7 +33,10 @@
 -[Code Synonyms Do Matter: Multiple Synonyms Matching Network for Automatic ICD Coding](https://aclanthology.org/2022.acl-short.91/) - in ACL 2022 - [official implementation](https://github.com/GanjinZero/ICD-MSMN)
 
 -[A Novel Framework Based on Medical Concept Driven Attention for Explainable Medical Code Prediction via External Knowledge](https://aclanthology.org/2022.findings-acl.110/) - in Findings of the ACL 2022 
+
 ## 2021
+
+-[Active learning for medical code assignment](https://arxiv.org/abs/2104.05741) - ACM CHIL 2021 workshop
 
 -[Multitask Recalibrated Aggregation Network for Medical Code Prediction](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_161.pdf) - multi-task learning - in ECML-PKDD 2021
 
