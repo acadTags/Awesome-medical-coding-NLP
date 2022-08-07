@@ -56,6 +56,8 @@
 
 -[Automatic ICD Coding via Interactive Shared Representation Networks with Self-distillation Mechanism](https://aclanthology.org/2021.acl-long.463/) in ACL 2021
 
+-[Analyzing Code Embeddings for Coding Clinical Narratives](https://aclanthology.org/2021.findings-acl.410/) - in Findings of the ACL 2021
+
 -[JLAN: medical code prediction via joint learning attention networks and denoising mechanism](https://doi.org/10.1186/s12859-021-04520-x) in BMC Bioinformatics, 2021
 
 -[Explainable Automated Coding of Clinical Notes using Hierarchical Label-Wise Attention Networks and Label Embedding Initialisation](https://arxiv.org/abs/2010.15728) in JBI, 2021.
@@ -81,6 +83,8 @@
 -[Experimental Evaluation and Development of a Silver-Standard for the MIMIC-III Clinical Coding Dataset](https://www.aclweb.org/anthology/2020.bionlp-1.8/) in BioNLP at ACL 2020.
 
 ## 2019
+
+-[EHR Coding with Multi-scale Feature Attention and Structured Knowledge Graph Propagation](https://dl.acm.org/doi/10.1145/3357384.3357897) - in CIKM 2019
 
 -[ICD Coding from Clinical Text Using Multi-Filter Residual Convolutional Neural Network](https://ojs.aaai.org/index.php/AAAI/article/view/6331) - in AAAI 2019
 
