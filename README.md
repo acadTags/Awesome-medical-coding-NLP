@@ -16,11 +16,14 @@
 
 -[Computer-assisted clinical coding: A narrative review of the literature on its benefits, limitations, implementation and impact on clinical coding professionals](https://journals.sagepub.com/doi/10.1177/1833358319851305) - an application-oriented review of computer-assisted clinical coding, in Health Information Management Journal, 2020.
 
+# Topics or facets
+We use `tags` to group the papers by sub-topics or facets related to methodology, objective, and other aspects for easy search. (TODO)
+
 # Paper by years
 
 ## 2022
 
--[An exploratory data analysis: the performance differences of a medical code prediction system on different demographic groups](https://aclanthology.org/2022.clinicalnlp-1.10/) - in ClinicalNLP@NAACL 2022
+-[An exploratory data analysis: the performance differences of a medical code prediction system on different demographic groups](https://aclanthology.org/2022.clinicalnlp-1.10/) - in ClinicalNLP@NAACL 2022 
 
 -[PLM-ICD: Automatic ICD Coding with Pretrained Language Models](https://aclanthology.org/2022.clinicalnlp-1.2/) - in ClinicalNLP@NAACL 2022 - [official implementation](https://github.com/miulab/plm-icd)
 
@@ -81,6 +84,8 @@
 -[Clinical-Coder: Assigning Interpretable ICD-10 Codes to Chinese Clinical Notes](https://www.aclweb.org/anthology/2020.acl-demos.33/) in System Demonstrations, ACL 2020.
 
 -[Experimental Evaluation and Development of a Silver-Standard for the MIMIC-III Clinical Coding Dataset](https://www.aclweb.org/anthology/2020.bionlp-1.8/) in BioNLP at ACL 2020.
+
+-[Dynamically Extracting Outcome-Specific Problem Lists from Clinical Notes with Guided Multi-Headed Attention](https://proceedings.mlr.press/v126/lovelace20a.html) in PMLR 2020. - [official code](https://github.com/justinlovelace/Dynamic-Problem-Lists).
 
 ## 2019
 
