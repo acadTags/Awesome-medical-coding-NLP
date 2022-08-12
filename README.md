@@ -18,7 +18,7 @@
 
 # Paper by years
 
-We tried to use `tags` to provide simple and shallow sub-topics for easy retrieval. There are by no means accurate or exaustive. 
+We tried to use `tags` to provide simple and shallow sub-topics for easy retrieval. These are by no means accurate or exaustive. 
 
 The `tags` so far include: `knowledge` <sub>(knowledge-augmented with ontologies/hierarchies/descriptions)</sub>, `explainability`, `human-in-the-loop`, `few/zero-shot`, `analysis` <sub>(analysis-focused)</sub>, `multimodal`, `PLM` <sub>(pre-trained language models)</sub>, `CNN` <sub>(Convolutional Neural Networks)</sub>. 
 
@@ -36,7 +36,7 @@ The `tags` so far include: `knowledge` <sub>(knowledge-augmented with ontologies
 
 -[Code Synonyms Do Matter: Multiple Synonyms Matching Network for Automatic ICD Coding](https://aclanthology.org/2022.acl-short.91/) - in ACL 2022 - [official implementation](https://github.com/GanjinZero/ICD-MSMN) `knowledge`
 
--[A Novel Framework Based on Medical Concept Driven Attention for Explainable Medical Code Prediction via External Knowledge](https://aclanthology.org/2022.findings-acl.110/) - in Findings of the ACL 2022 `knowledge` `explainability`
+-[A Novel Framework Based on Medical Concept Driven Attention for Explainable Medical Code Prediction via External Knowledge](https://aclanthology.org/2022.findings-acl.110/) - in Findings of the ACL 2022 `knowledge`, `explainability`
 
 ## 2021
 
