@@ -18,7 +18,9 @@
 
 # Paper by years
 
-We tried to use `tags` to provide simple and shallow sub-topics or facets for easy retrieval. This is by no means to be accurate or exaustive. The `tags` so far include: `knowledge` <sub>(e.g. ontologies/hierarchies/descriptions)</sub>, `explainability`, `human-in-the-loop`, `few/zero-shot`, `analysis` <sub>(analysis-focused)</sub>, `multimodal`, `PLM` <sub>(pre-trained language models)</sub>, `CNN` <sub>(Convolutional Neural Networks)</sub>. 
+We tried to use `tags` to provide simple and shallow sub-topics for easy retrieval. There are by no means accurate or exaustive. 
+
+The `tags` so far include: `knowledge` <sub>(knowledge-augmented with ontologies/hierarchies/descriptions)</sub>, `explainability`, `human-in-the-loop`, `few/zero-shot`, `analysis` <sub>(analysis-focused)</sub>, `multimodal`, `PLM` <sub>(pre-trained language models)</sub>, `CNN` <sub>(Convolutional Neural Networks)</sub>. 
 
 ## 2022
 
