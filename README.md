@@ -20,15 +20,17 @@
 
 We tried to use `tags` to provide simple and shallow sub-topics for easy retrieval. These are by no means accurate or exaustive. 
 
-The `tags` so far include: `knowledge` <sub>(knowledge-augmented with ontologies/hierarchies/descriptions)</sub>, `explainability`, `human-in-the-loop`, `few/zero-shot`, `analysis` <sub>(analysis-focused)</sub>, `multimodal`, `PLM` <sub>(pre-trained language models)</sub>, `CNN` <sub>(Convolutional Neural Networks)</sub>. 
+The `tags` so far include: `knowledge` <sub>(knowledge-augmented with ontologies/hierarchies/descriptions)</sub>, `explainability`, `human-in-the-loop`, `few/zero-shot`, `analysis` <sub>(analysis-focused)</sub>, `multimodal`, `PLM` <sub>(pre-trained language models)</sub>, `CNN` <sub>(Convolutional Neural Networks)</sub>, `NER+L` <sub>(named entity recognition and linking). 
 
 ## 2022
+
+-[Entity Anchored ICD Coding](https://arxiv.org/abs/2208.07444) in AMIA 2022 `knowledge` `NER+L`
 
 -[An exploratory data analysis: the performance differences of a medical code prediction system on different demographic groups](https://aclanthology.org/2022.clinicalnlp-1.10/) - in ClinicalNLP@NAACL 2022 `analysis`
 
 -[PLM-ICD: Automatic ICD Coding with Pretrained Language Models](https://aclanthology.org/2022.clinicalnlp-1.2/) - in ClinicalNLP@NAACL 2022 - [official implementation](https://github.com/miulab/plm-icd) `PLM`
 
--[Horses to Zebras: Ontology-Guided Data Augmentation and Synthesis for ICD-9 Coding](https://aclanthology.org/2022.bionlp-1.39/) - in BioNLP@ACL 2022 `knowledge`
+-[Horses to Zebras: Ontology-Guided Data Augmentation and Synthesis for ICD-9 Coding](https://aclanthology.org/2022.bionlp-1.39/) - in BioNLP@ACL 2022 `knowledge` `NER+L`
 
 -[Model Distillation for Faithful Explanations of Medical Code Predictions](https://aclanthology.org/2022.bionlp-1.41/) - in BioNLP@ACL 2022 `explainability`
 
@@ -84,7 +86,7 @@ The `tags` so far include: `knowledge` <sub>(knowledge-augmented with ontologies
 
 -[Clinical-Coder: Assigning Interpretable ICD-10 Codes to Chinese Clinical Notes](https://www.aclweb.org/anthology/2020.acl-demos.33/) in System Demonstrations, ACL 2020. `explainability`
 
--[Experimental Evaluation and Development of a Silver-Standard for the MIMIC-III Clinical Coding Dataset](https://www.aclweb.org/anthology/2020.bionlp-1.8/) in BioNLP at ACL 2020. `knowledge`, `analysis`
+-[Experimental Evaluation and Development of a Silver-Standard for the MIMIC-III Clinical Coding Dataset](https://www.aclweb.org/anthology/2020.bionlp-1.8/) in BioNLP at ACL 2020. `knowledge`, `analysis`, `NER+L`
 
 -[Dynamically Extracting Outcome-Specific Problem Lists from Clinical Notes with Guided Multi-Headed Attention](https://proceedings.mlr.press/v126/lovelace20a.html) in PMLR 2020. - [official code](https://github.com/justinlovelace/Dynamic-Problem-Lists). `explainability`
 
@@ -96,8 +98,9 @@ The `tags` so far include: `knowledge` <sub>(knowledge-augmented with ontologies
 
 -[Multimodal Machine Learning for Automated ICD Coding](http://proceedings.mlr.press/v106/xu19a.html) Ensembling models from unstructured text, semi-structured text and structured tabular data for ICD coding. (Keyang Xu, Mike Lam, Jingzhi Pang, Xin Gao, Charlotte Band, Piyush Mathur, Frank Papay, Ashish K. Khanna, Jacek B. Cywinski, Kamal Maheshwari, Pengtao Xie, Eric P. Xing ; Proceedings of the 4th Machine Learning for Healthcare Conference, PMLR 106:197-215, 2019.) `multimodal`
 
--[Ontological attention ensembles for capturing semantic concepts in ICD
-code prediction from clinical text](https://www.aclweb.org/anthology/D19-6220/) - Multi-view convolution + multi-task learning. In LOUHI 2019 at EMNLP. `knowledge`
+-[Ontological attention ensembles for capturing semantic concepts in ICD code prediction from clinical text](https://www.aclweb.org/anthology/D19-6220/) - Multi-view convolution + multi-task learning. In LOUHI 2019 at EMNLP. `knowledge`
+
+-[Clinical Concept Extraction for Document-Level Coding](https://www.aclweb.org/anthology/W19-5028) - In BioNLP@ACL 2019. `knowledge` `NER+L`
 
 ## 2018
 
