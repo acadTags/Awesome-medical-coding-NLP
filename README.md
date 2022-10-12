@@ -6,15 +6,17 @@
  Stop at any time to check this collection of papers!
 
 # Reviews
--[A systematic literature review of automated clinical coding and classification systems](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3000748/) - one of the earliest reviews in automated clinical coding, in JAMIA, 2010
-
--[A Systematic Literature Review of Automated ICD Coding and Classification Systems using Discharge Summaries](https://arxiv.org/abs/2107.10652) - review of work between 2010-2020
-
--[A Unified Review of Deep Learning for Automated Medical Coding](https://arxiv.org/abs/2201.02797) - a focus on deep learning, 2022.
+-[Automated Clinical Coding: What, Why, and Where We Are?](https://arxiv.org/abs/2203.11092) - a perspective paper about automated clinical coding, its current states and technical challenges, npj Digital Health, 2022
 
 -[A review on deep neural networks for ICD coding](https://www.computer.org/csdl/journal/tk/5555/01/09705116/1AII1Yh8t44) - technical summary, deep learning,  summary of public datasets, in IEEE TKDE 2022.
 
+-[A Unified Review of Deep Learning for Automated Medical Coding](https://arxiv.org/abs/2201.02797) - a focus on deep learning, 2022.
+
 -[Computer-assisted clinical coding: A narrative review of the literature on its benefits, limitations, implementation and impact on clinical coding professionals](https://journals.sagepub.com/doi/10.1177/1833358319851305) - an application-oriented review of computer-assisted clinical coding, in Health Information Management Journal, 2020.
+
+-[A Systematic Literature Review of Automated ICD Coding and Classification Systems using Discharge Summaries](https://arxiv.org/abs/2107.10652) - review of work between 2010-2020
+
+-[A systematic literature review of automated clinical coding and classification systems](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3000748/) - one of the earliest reviews in automated clinical coding, in JAMIA, 2010
 
 # Paper by years
 
@@ -23,6 +25,10 @@ We tried to use `tags` to provide simple and shallow sub-topics for easy retriev
 The `tags` so far include: `knowledge` <sub>(knowledge-augmented with ontologies/hierarchies/descriptions)</sub>, `explainability`, `human-in-the-loop`, `few/zero-shot`, `analysis` <sub>(analysis-focused)</sub>, `multimodal`, `PLM` <sub>(pre-trained language models)</sub>, `CNN` <sub>(Convolutional Neural Networks)</sub>, `NER+L` <sub>(named entity recognition and linking). 
 
 ## 2022
+
+-[Knowledge Injected Prompt Based Fine-tuning for Multi-label Few-shot ICD Coding](https://arxiv.org/abs/2210.03304) in Findings of EMNLP 2022 `knowledge` `PLM` `few/zero-shot`
+
+-[Concatenating BioMed-Transformers to Tackle Long Medical Documents and to Improve the Prediction of Tail-End Labels](https://link.springer.com/chapter/10.1007/978-3-031-15931-2_18) in ICANN 2022 `PLM` `few/zero-shot`
 
 -[Entity Anchored ICD Coding](https://arxiv.org/abs/2208.07444) in AMIA 2022 `knowledge` `NER+L`
 
