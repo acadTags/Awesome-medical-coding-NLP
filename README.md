@@ -6,7 +6,7 @@
  Stop at any time to check this collection of papers!
 
 # Reviews
--[Automated Clinical Coding: What, Why, and Where We Are?](https://arxiv.org/abs/2203.11092) - a perspective paper about automated clinical coding, its current states and technical challenges, npj Digital Health, 2022
+-[Automated Clinical Coding: What, Why, and Where We Are?](https://arxiv.org/abs/2203.11092) - a perspective paper about automated clinical coding, its current states and technical challenges, in npj Digital Health, 2022
 
 -[A review on deep neural networks for ICD coding](https://www.computer.org/csdl/journal/tk/5555/01/09705116/1AII1Yh8t44) - technical summary, deep learning,  summary of public datasets, in IEEE TKDE 2022.
 
@@ -26,11 +26,11 @@ The `tags` so far include: `knowledge` <sub>(knowledge-augmented with ontologies
 
 ## 2022
 
--[Knowledge Injected Prompt Based Fine-tuning for Multi-label Few-shot ICD Coding](https://arxiv.org/abs/2210.03304) in Findings of EMNLP 2022 `knowledge` `PLM` `few/zero-shot`
+-[Knowledge Injected Prompt Based Fine-tuning for Multi-label Few-shot ICD Coding](https://arxiv.org/abs/2210.03304) - in Findings of EMNLP 2022 `knowledge` `PLM` `few/zero-shot`
 
--[Concatenating BioMed-Transformers to Tackle Long Medical Documents and to Improve the Prediction of Tail-End Labels](https://link.springer.com/chapter/10.1007/978-3-031-15931-2_18) in ICANN 2022 `PLM` `few/zero-shot`
+-[Concatenating BioMed-Transformers to Tackle Long Medical Documents and to Improve the Prediction of Tail-End Labels](https://link.springer.com/chapter/10.1007/978-3-031-15931-2_18) - in ICANN 2022 `PLM` `few/zero-shot`
 
--[Entity Anchored ICD Coding](https://arxiv.org/abs/2208.07444) in AMIA 2022 `knowledge` `NER+L`
+-[Entity Anchored ICD Coding](https://arxiv.org/abs/2208.07444) - in AMIA 2022 `knowledge` `NER+L`
 
 -[An exploratory data analysis: the performance differences of a medical code prediction system on different demographic groups](https://aclanthology.org/2022.clinicalnlp-1.10/) - in ClinicalNLP@NAACL 2022 `analysis`
 
