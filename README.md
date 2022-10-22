@@ -6,7 +6,7 @@
  Stop at any time to check this collection of papers!
 
 # Reviews
--[Automated Clinical Coding: What, Why, and Where We Are?](https://arxiv.org/abs/2203.11092) - a perspective paper about automated clinical coding, its current states and technical challenges, in npj Digital Health, 2022
+-[Automated Clinical Coding: What, Why, and Where We Are?](https://www.nature.com/articles/s41746-022-00705-7) - a perspective paper about automated clinical coding, its current states and technical challenges, in npj Digital Health, 2022
 
 -[A review on deep neural networks for ICD coding](https://www.computer.org/csdl/journal/tk/5555/01/09705116/1AII1Yh8t44) - technical summary, deep learning,  summary of public datasets, in IEEE TKDE 2022.
 
