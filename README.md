@@ -1,10 +1,11 @@
 # Awesome-medical-coding-NLP
  Automated medical coding is an area in Clinical Natural Language Processing to assign diagnosis or procedure medical codes to free-text clinical notes. The domain is a sub-field of document classification and information extraction.
 
- Below is a curation of papers (mostly peer-reviewed) and datasets in this field, mainly since the application of deep learning to this field (around 2017). Given the many new papers and datasets published, I may have lost some of them.
+ Below is a curation of papers (mostly peer-reviewed) and datasets in this field, mainly since the application of deep learning to this field (around 2017). Given the many new papers and datasets published, I may have lost some of them. 
  
- Stop at any time to check this collection of papers!
+ The repository will not be actively updated given the many publications in this domain. But hope it provides a good starting point for your research on this topic! 
 
+ 
 # Reviews
 -[Automated Clinical Coding: What, Why, and Where We Are?](https://www.nature.com/articles/s41746-022-00705-7) - a perspective paper about automated clinical coding, its current states and technical challenges, in npj Digital Health, 2022
 
@@ -25,6 +26,14 @@ We tried to use `tags` to provide simple and shallow sub-topics for easy retriev
 The `tags` so far include: `knowledge` <sub>(knowledge-augmented with ontologies/hierarchies/descriptions)</sub>, `explainability`, `human-in-the-loop`, `few/zero-shot`, `analysis` <sub>(analysis-focused)</sub>, `multimodal`, `PLM` <sub>(pre-trained language models)</sub>, `CNN` <sub>(Convolutional Neural Networks)</sub>, `NER+L` <sub>(named entity recognition and linking). 
 
 ## 2022
+
+-[Can Current Explainability Help Provide References in Clinical Notes to Support Humans Annotate Medical Codes?](https://arxiv.org/abs/2210.15882) - in LOUHI@EMNLP 2022 `explainability`
+
+-[This Patient Looks Like That Patient: Prototypical Networks for Interpretable Diagnosis Prediction from Clinical Text](https://arxiv.org/abs/2210.08500) - in AACL-IJCNLP 2022 `explainability`
+
+-[Automatic ICD Coding Exploiting Discourse Structure and Reconciled Code Embeddings](https://aclanthology.org/2022.coling-1.254/) - in COLING 2022
+
+-[TreeMAN: Tree-enhanced Multimodal Attention Network for ICD Coding](https://aclanthology.org/2022.coling-1.270/) - in COLING 2022 `multimodal`
 
 -[Knowledge Injected Prompt Based Fine-tuning for Multi-label Few-shot ICD Coding](https://arxiv.org/abs/2210.03304) - in Findings of EMNLP 2022 `knowledge` `PLM` `few/zero-shot`
 
