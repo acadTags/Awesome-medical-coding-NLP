@@ -132,6 +132,8 @@ The `tags` so far include: `knowledge` <sub>(knowledge-augmented with ontologies
 -[Automatic Diagnosis Coding of Radiology Reports: A Comparison of Deep Learning and Conventional Classification Methods](https://aclanthology.org/W17-2342/) in BioNLP 2017
 
 # Datasets (EHR only)
+-[MIMIC-IV](https://physionet.org/content/mimiciv) and [MIMIC-IV-Note](https://www.physionet.org/content/mimic-iv-note)
+
 -[MIMIC-III](https://physionet.org/content/mimiciii/1.4/)
 
 -[CodieEsp](https://temu.bsc.es/codiesp/)
