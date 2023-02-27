@@ -25,7 +25,12 @@ We tried to use `tags` to provide simple and shallow sub-topics for easy retriev
 
 The `tags` so far include: `knowledge` <sub>(knowledge-augmented with ontologies/hierarchies/descriptions)</sub>, `explainability`, `human-in-the-loop`, `few/zero-shot`, `analysis` <sub>(analysis-focused)</sub>, `multimodal`, `PLM` <sub>(pre-trained language models)</sub>, `CNN` <sub>(Convolutional Neural Networks)</sub>, `NER+L` <sub>(named entity recognition and linking). 
 
+## 2023
+-[Multi-label Few-shot ICD Coding as Autoregressive Generation with Prompt](http://arxiv.org/abs/2211.13813) - in AAAI 2023 `PLM`
+
 ## 2022
+
+-[AnEMIC: A Framework for Benchmarking ICD Coding Models](https://aclanthology.org/2022.emnlp-demos.11/) - in EMNLP 2022 demo
 
 -[Can Current Explainability Help Provide References in Clinical Notes to Support Humans Annotate Medical Codes?](https://arxiv.org/abs/2210.15882) - in LOUHI@EMNLP 2022 `explainability`
 
