@@ -26,6 +26,8 @@ We tried to use `tags` to provide simple and shallow sub-topics for easy retriev
 The `tags` so far include: `knowledge` <sub>(knowledge-augmented with ontologies/hierarchies/descriptions)</sub>, `explainability`, `human-in-the-loop`, `few/zero-shot`, `analysis` <sub>(analysis-focused)</sub>, `multimodal`, `PLM` <sub>(pre-trained language models)</sub>, `CNN` <sub>(Convolutional Neural Networks)</sub>, `NER+L` <sub>(named entity recognition and linking). 
 
 ## 2023
+-[Automated Medical Coding on MIMIC-III and MIMIC-IV: A Critical Review and Replicability Study](https://arxiv.org/abs/2304.10909) - in SIGIR 2023 - [official implementation](https://github.com/joakimedin/medical-coding-reproducibility)
+
 -[Multi-label Few-shot ICD Coding as Autoregressive Generation with Prompt](http://arxiv.org/abs/2211.13813) - in AAAI 2023 `PLM`
 
 ## 2022
