@@ -26,7 +26,7 @@ We tried to use `tags` to provide simple and shallow sub-topics for easy retriev
 The `tags` so far include: `resource`, `knowledge` <sub>(knowledge-augmented with ontologies/hierarchies/descriptions)</sub>, `explainability`, `human-in-the-loop`, `few/zero-shot`, `analysis` <sub>(analysis-focused)</sub>, `multimodal`, `PLM` <sub>(pre-trained language models)</sub>, `CNN` <sub>(Convolutional Neural Networks)</sub>, `NER+L` <sub>(named entity recognition and linking). 
 
 ## 2023
--[MDACE: MIMIC Documents Annotated with Code Evidence](https://aclanthology.org/2023.acl-long.416/) - in ACL 2023 - [official repository](https://github.com/3mcloud/MDACE/) `resource`
+-[MDACE: MIMIC Documents Annotated with Code Evidence](https://aclanthology.org/2023.acl-long.416/) - in ACL 2023 - [official repository](https://github.com/3mcloud/MDACE/) `resource`, `explainability`
 
 -[Automated Medical Coding on MIMIC-III and MIMIC-IV: A Critical Review and Replicability Study](https://arxiv.org/abs/2304.10909) - in SIGIR 2023 - [official implementation](https://github.com/joakimedin/medical-coding-reproducibility) `resource`
 
