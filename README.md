@@ -21,12 +21,14 @@
 
 # Paper by years
 
-We tried to use `tags` to provide simple and shallow sub-topics for easy retrieval. These are by no means accurate or exaustive. 
+We tried to use `tags` to provide simple and shallow sub-topics for easy retrieval. These are by no means accurate or exhaustive. 
 
-The `tags` so far include: `knowledge` <sub>(knowledge-augmented with ontologies/hierarchies/descriptions)</sub>, `explainability`, `human-in-the-loop`, `few/zero-shot`, `analysis` <sub>(analysis-focused)</sub>, `multimodal`, `PLM` <sub>(pre-trained language models)</sub>, `CNN` <sub>(Convolutional Neural Networks)</sub>, `NER+L` <sub>(named entity recognition and linking). 
+The `tags` so far include: `resource`, `knowledge` <sub>(knowledge-augmented with ontologies/hierarchies/descriptions)</sub>, `explainability`, `human-in-the-loop`, `few/zero-shot`, `analysis` <sub>(analysis-focused)</sub>, `multimodal`, `PLM` <sub>(pre-trained language models)</sub>, `CNN` <sub>(Convolutional Neural Networks)</sub>, `NER+L` <sub>(named entity recognition and linking). 
 
 ## 2023
--[Automated Medical Coding on MIMIC-III and MIMIC-IV: A Critical Review and Replicability Study](https://arxiv.org/abs/2304.10909) - in SIGIR 2023 - [official implementation](https://github.com/joakimedin/medical-coding-reproducibility)
+-[MDACE: MIMIC Documents Annotated with Code Evidence](https://aclanthology.org/2023.acl-long.416/) - in ACL 2023 - [official repository](https://github.com/3mcloud/MDACE/) `resource`
+
+-[Automated Medical Coding on MIMIC-III and MIMIC-IV: A Critical Review and Replicability Study](https://arxiv.org/abs/2304.10909) - in SIGIR 2023 - [official implementation](https://github.com/joakimedin/medical-coding-reproducibility) `resource`
 
 -[Multi-label Few-shot ICD Coding as Autoregressive Generation with Prompt](http://arxiv.org/abs/2211.13813) - in AAAI 2023 `PLM`
 
@@ -128,7 +130,7 @@ The `tags` so far include: `knowledge` <sub>(knowledge-augmented with ontologies
 
 -[Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces](https://www.aclweb.org/anthology/D18-1352/) - Few-shot and zero-shot learning with Graph Convolutional Neural Networks and the ICD hierarchy with descriptions. In EMNLP 2018. `few/zero-shot`
 
--[Explainable Prediction of Medical Codes from Clinical Text](https://www.aclweb.org/anthology/N18-1100) - CNN with labelwise attention and the benchmark MIMIC preprocessed datasets. In NAACL-HLT 2018. `explainability`
+-[Explainable Prediction of Medical Codes from Clinical Text](https://www.aclweb.org/anthology/N18-1100) - CNN with labelwise attention and the benchmark MIMIC preprocessed datasets. In NAACL-HLT 2018. `explainability`, `resource`
 
 -[Towards automated clinical coding](https://discovery.ucl.ac.uk/id/eprint/10061782/) - International Journal of Medical Informatics, 2018
 
