@@ -23,9 +23,11 @@
 
 We tried to use `tags` to provide simple and shallow sub-topics for easy retrieval. These are by no means accurate or exhaustive. 
 
-The `tags` so far include: `resource`, `knowledge` <sub>(knowledge-augmented with ontologies/hierarchies/descriptions)</sub>, `explainability`, `human-in-the-loop`, `few/zero-shot`, `analysis` <sub>(analysis-focused)</sub>, `multimodal`, `PLM` <sub>(pre-trained language models)</sub>, `CNN` <sub>(Convolutional Neural Networks)</sub>, `NER+L` <sub>(named entity recognition and linking), `GNN` <sub>(Graph Neural Networks)</sub>. 
+The `tags` so far include: `resource`, `knowledge` <sub>(knowledge-augmented with ontologies/hierarchies/descriptions)</sub>, `explainability`, `human-in-the-loop`, `few/zero-shot`, `analysis` <sub>(analysis-focused)</sub>, `multimodal`, `PLM` <sub>(pre-trained language models)</sub>, `LLM` <sub>(large language models)</sub>, `CNN` <sub>(Convolutional Neural Networks)</sub>, `NER+L` <sub>(named entity recognition and linking)</sub>, `GNN` <sub>(Graph Neural Networks)</sub>. 
 
 ## 2023
+
+-[Automated clinical coding using off-the-shelf large language models] - Neurips 2023 Deep Generative Models for Health workshop `LLM`, `PLM`, `few/zero-shot`, `knowledge`
 
 -[Towards Automatic ICD Coding via Knowledge Enhanced Multi-Task Learning](https://dl.acm.org/doi/10.1145/3583780.3615087) - in CIKM 2023 `knowledge`, `NER+L`, `GNN`
 
