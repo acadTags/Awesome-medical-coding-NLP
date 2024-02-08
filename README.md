@@ -27,7 +27,7 @@ The `tags` so far include: `resource`, `knowledge` <sub>(knowledge-augmented wit
 
 ## 2023
 
--[Automated clinical coding using off-the-shelf large language models] - Neurips 2023 Deep Generative Models for Health workshop `LLM`, `PLM`, `few/zero-shot`, `knowledge`
+-[Automated clinical coding using off-the-shelf large language models](https://openreview.net/forum?id=mqnR8rGWkn) - Neurips 2023 Deep Generative Models for Health workshop `LLM`, `PLM`, `few/zero-shot`, `knowledge`
 
 -[Towards Automatic ICD Coding via Knowledge Enhanced Multi-Task Learning](https://dl.acm.org/doi/10.1145/3583780.3615087) - in CIKM 2023 `knowledge`, `NER+L`, `GNN`
 
