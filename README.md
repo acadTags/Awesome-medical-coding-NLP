@@ -27,9 +27,13 @@ The `tags` so far include: `resource`, `knowledge` <sub>(knowledge-augmented wit
 
 ## 2024
 
+-[ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes](https://arxiv.org/abs/2403.05795) - `LLM`, `few/zero-shot`
+
 -[Can GPT-3.5 Generate and Code Discharge Summaries?](https://arxiv.org/abs/2401.13512) - `LLM`, `analysis`, `few/zero-shot`
 
 ## 2023
+
+-[Surpassing GPT-4 Medical Coding with a Two-Stage Approach](https://arxiv.org/abs/2311.13735) - `LLM`, `analysis`
 
 -[Automated clinical coding using off-the-shelf large language models](https://openreview.net/forum?id=mqnR8rGWkn) - NeurIPS 2023 Deep Generative Models for Health workshop `LLM`, `PLM`, `few/zero-shot`, `knowledge`
 
