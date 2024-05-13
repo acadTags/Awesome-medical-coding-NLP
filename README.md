@@ -7,7 +7,7 @@
 
  
 # Reviews
--[Automated Clinical Coding: What, Why, and Where We Are?](https://www.nature.com/articles/s41746-022-00705-7) - a perspective paper about automated clinical coding, its current states and technical challenges, in npj Digital Health, 2022
+-[Automated Clinical Coding: What, Why, and Where We Are?](https://www.nature.com/articles/s41746-022-00705-7) - a perspective paper about automated clinical coding, its current states and technical challenges, in npj Digital Medicine, 2022
 
 -[A Unified Review of Deep Learning for Automated Medical Coding](https://arxiv.org/abs/2201.02797) - a focus on deep learning and its main building blocks specific for clinical coding as a healthcare AI application, in ACM Computing Surveys, 2024
 
