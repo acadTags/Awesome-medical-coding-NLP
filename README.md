@@ -27,9 +27,13 @@ The `tags` so far include: `resource`, `knowledge` <sub>(knowledge-augmented wit
 
 ## 2024
 
+-[Exploring LLM Multi-Agents for ICD Coding](https://arxiv.org/abs/2406.15363) - `LLM`, `few/zero-shot`, `explainability`
+
+-[An Unsupervised Approach to Achieve Supervised-Level Explainability in Healthcare Records](https://arxiv.org/abs/2406.08958) - `explainability`
+
 -[ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes](https://arxiv.org/abs/2403.05795) - `LLM`, `few/zero-shot`
 
--[Can GPT-3.5 Generate and Code Discharge Summaries?](https://arxiv.org/abs/2401.13512) - `LLM`, `analysis`, `few/zero-shot`
+-[Can GPT-3.5 Generate and Code Discharge Summaries?](https://arxiv.org/abs/2401.13512) - in JAMIA - `LLM`, `analysis`, `few/zero-shot`
 
 ## 2023
 
