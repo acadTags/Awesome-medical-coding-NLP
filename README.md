@@ -23,13 +23,15 @@
 
 We tried to use `tags` to provide simple and shallow sub-topics for easy retrieval. These are by no means accurate or exhaustive. 
 
-The `tags` so far include: `resource`, `knowledge` <sub>(knowledge-augmented with ontologies/hierarchies/descriptions)</sub>, `explainability`, `human-in-the-loop`, `few/zero-shot`, `analysis` <sub>(analysis-focused)</sub>, `multimodal`, `PLM` <sub>(pre-trained language models)</sub>, `LLM` <sub>(large language models)</sub>, `CNN` <sub>(Convolutional Neural Networks)</sub>, `NER+L` <sub>(named entity recognition and linking)</sub>, `GNN` <sub>(Graph Neural Networks)</sub>. 
+The `tags` so far include: `resource`, `knowledge` <sub>(knowledge-augmented with ontologies/hierarchies/descriptions)</sub>, `explainability`, `human-in-the-loop`, `few/zero-shot`, `analysis` <sub>(analysis-focused)</sub>, `multimodal`, `PLM` <sub>(pre-trained language models)</sub>, `LLM` <sub>(large language models)</sub>, `CNN` <sub>(Convolutional Neural Networks)</sub>, `NER+L` <sub>(named entity recognition and linking)</sub>, `GNN` <sub>(Graph Neural Networks)</sub>, `terminology-changes`. 
 
 ## 2024
 
 -[Exploring LLM Multi-Agents for ICD Coding](https://arxiv.org/abs/2406.15363) - `LLM`, `few/zero-shot`, `explainability`
 
 -[An Unsupervised Approach to Achieve Supervised-Level Explainability in Healthcare Records](https://arxiv.org/abs/2406.08958) - `explainability`
+
+-[Data Drift in Clinical Outcome Prediction from Admission Notes](https://aclanthology.org/2024.lrec-main.391/) - in LREC-COLING 2024 - `terminology-changes`
 
 -[ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes](https://arxiv.org/abs/2403.05795) - `LLM`, `few/zero-shot`
 
