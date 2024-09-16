@@ -27,6 +27,8 @@ The `tags` so far include: `resource`, `knowledge` <sub>(knowledge-augmented wit
 
 ## 2024
 
+-[Can GPT-3.5 Generate and Code Discharge Summaries?](https://doi.org/10.1093/jamia/ocae132) - in JAMIA - `LLM`, `analysis`, `few/zero-shot`
+
 -[Exploring LLM Multi-Agents for ICD Coding](https://arxiv.org/abs/2406.15363) - `LLM`, `few/zero-shot`, `explainability`
 
 -[An Unsupervised Approach to Achieve Supervised-Level Explainability in Healthcare Records](https://arxiv.org/abs/2406.08958) - `explainability`
@@ -34,8 +36,6 @@ The `tags` so far include: `resource`, `knowledge` <sub>(knowledge-augmented wit
 -[Data Drift in Clinical Outcome Prediction from Admission Notes](https://aclanthology.org/2024.lrec-main.391/) - in LREC-COLING 2024 - `terminology-changes`
 
 -[ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes](https://arxiv.org/abs/2403.05795) - `LLM`, `few/zero-shot`
-
--[Can GPT-3.5 Generate and Code Discharge Summaries?](https://arxiv.org/abs/2401.13512) - in JAMIA - `LLM`, `analysis`, `few/zero-shot`
 
 ## 2023
 
