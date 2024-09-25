@@ -27,6 +27,10 @@ The `tags` so far include: `resource`, `knowledge` <sub>(knowledge-augmented wit
 
 ## 2024
 
+-[Continuous Predictive Modeling of Clinical Notes and ICD Codes in Patient Health Records](https://aclanthology.org/2024.bionlp-1.19/) - in BioNLP@ACL 2024
+
+-[Low-resource ICD Coding of Hospital Discharge Summaries](https://aclanthology.org/2024.bionlp-1.45/) - in BioNLP@ACL 2024 - `few/zero-shot`, `knowledge`
+
 -[Can GPT-3.5 Generate and Code Discharge Summaries?](https://doi.org/10.1093/jamia/ocae132) - in JAMIA - `LLM`, `analysis`, `few/zero-shot`
 
 -[Exploring LLM Multi-Agents for ICD Coding](https://arxiv.org/abs/2406.15363) - `LLM`, `few/zero-shot`, `explainability`
