@@ -27,6 +27,8 @@ The `tags` so far include: `resource`, `knowledge` <sub>(knowledge-augmented wit
 
 ## 2024
 
+-[Optimising the paradigms of human AI collaborative clinical coding](https://www.nature.com/articles/s41746-024-01363-7) - in npj Digital Medicine, 2024 - `human-in-the-loop`, `GNN`, `explainability`, `analysis`
+
 -[Continuous Predictive Modeling of Clinical Notes and ICD Codes in Patient Health Records](https://aclanthology.org/2024.bionlp-1.19/) - in BioNLP@ACL 2024
 
 -[Low-resource ICD Coding of Hospital Discharge Summaries](https://aclanthology.org/2024.bionlp-1.45/) - in BioNLP@ACL 2024 - `few/zero-shot`, `knowledge`
